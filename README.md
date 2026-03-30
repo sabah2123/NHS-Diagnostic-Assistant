@@ -11,6 +11,9 @@ An AI-powered diagnostic tool that analyses patient symptoms and predicts potent
 - **Appointment Booking**: Automatically books appointments based on urgency levels (high urgency for in-person, low for phone consultations).
 - **Prescription Management**: View and manage active and expired prescriptions.
 
+- ## Business Impact
+- This tool could reduce NHS triage times, free up GP appointments, and improve patient outcomes.
+
 ## Installation
 
 1. Clone the repository.
